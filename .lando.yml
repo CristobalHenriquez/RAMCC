@@ -1,0 +1,4 @@
+name: ramcc
+recipe: laravel
+config:
+  webroot: .

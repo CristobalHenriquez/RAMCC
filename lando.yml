@@ -1,0 +1,6 @@
+name: ramcc
+recipe: laravel
+config:
+  webroot: public
+  php: "8.0"
+  database: mysql
